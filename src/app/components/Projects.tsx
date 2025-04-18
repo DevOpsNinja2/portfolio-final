@@ -19,7 +19,7 @@ const projectsData: ProjectData[] = [
     description:
       "This is a portfolio website created using LLMs only. Allowed to iterate the design quickly.",
     image: "/proj/website.png",
-    link: "https://github.com/DevOpsNinja2/portfolio-website",
+    link: "https://github.com/DevOpsNinja2/portfolio-final",
     tag: ["All", "Software"],
   },
   {
