@@ -1,5 +1,11 @@
 /** @type {import('next').NextConfig} */
+const isGithubPages = process.env.NODE_ENV === 'production';
+const repo = 'DevOpsNinja2'; // Your GitHub repo name
+
 const nextConfig = {
+  output: 'export',
+  basePath: isGithubPages ? `/${repo}` : '',
+  assetPrefix: isGithubPages ? `/${repo}/` : '',
   images: {
     remotePatterns: [
       {
@@ -9,10 +15,6 @@ const nextConfig = {
       },
     ],
   },
-<<<<<<< HEAD
-  output: "export",
-=======
->>>>>>> 184abd034a453159df949ac775d50bf95e6a8180
 };
 
 module.exports = nextConfig;
