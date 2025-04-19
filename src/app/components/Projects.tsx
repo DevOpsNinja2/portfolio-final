@@ -1,7 +1,8 @@
 "use client";
 import React, { useState, useRef, FC } from "react";
 import { motion, useInView } from "framer-motion";
-import Image from "next/legacy/image";
+import Image from "next/image"
+
 
 interface ProjectData {
   id: number;
