@@ -192,11 +192,18 @@ export default function About() {
               <span className="text-yellow-500">passionate developer</span>
             </h3>
             <p className="text-gray-300 mb-4 sm:mb-6 text-sm sm:text-base">
+<<<<<<< HEAD
             I&apos;m an MCA student from Bangalore with a genuine passion for full-stack development and DevOps. 
             I enjoy building clean, responsive web apps and streamlining development processes through automation. 
             I&apos;m always eager to learn new tools, improve my skills, and work on projects that make an impact.
           </p>
 
+=======
+             I'm an MCA student from Bangalore with a genuine passion for full-stack development and DevOps. 
+             I enjoy building clean, responsive web apps and streamlining development processes through automation. 
+             I'm always eager to learn new tools, improve my skills, and work on projects that make an impact.
+            </p>
+>>>>>>> 184abd034a453159df949ac775d50bf95e6a8180
             <p className="text-gray-400 mb-6 sm:mb-8 text-sm sm:text-base">
               My focus is on creating efficient, scalable solutions to complex
               problems through innovative approaches and clean code.

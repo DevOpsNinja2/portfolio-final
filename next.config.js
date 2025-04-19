@@ -9,7 +9,10 @@ const nextConfig = {
       },
     ],
   },
+<<<<<<< HEAD
   output: "export",
+=======
+>>>>>>> 184abd034a453159df949ac775d50bf95e6a8180
 };
 
 module.exports = nextConfig;
