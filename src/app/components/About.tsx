@@ -20,7 +20,7 @@ const TAB_DATA: TabData[] = [
         </li>
         <li className="flex items-center gap-2 text-gray-300">
           <span className="h-2 w-2 rounded-full bg-yellow-500"></span>
-          C
+          java
         </li>
         <li className="flex items-center gap-2 text-gray-300">
           <span className="h-2 w-2 rounded-full bg-yellow-500"></span>
@@ -28,19 +28,23 @@ const TAB_DATA: TabData[] = [
         </li>
         <li className="flex items-center gap-2 text-gray-300">
           <span className="h-2 w-2 rounded-full bg-yellow-500"></span>
-          Django
+          Django / PHP
         </li>
         <li className="flex items-center gap-2 text-gray-300">
           <span className="h-2 w-2 rounded-full bg-yellow-500"></span>
-          SQL
+          SQL , MongoDB
         </li>
         <li className="flex items-center gap-2 text-gray-300">
           <span className="h-2 w-2 rounded-full bg-yellow-500"></span>
-          React/Next.js
+          React/Next.js, Angular 
         </li>
         <li className="flex items-center gap-2 text-gray-300">
           <span className="h-2 w-2 rounded-full bg-yellow-500"></span>
           Machine Learning
+        </li>
+        <li className="flex items-center gap-2 text-gray-300">
+          <span className="h-2 w-2 rounded-full bg-yellow-500"></span>
+          AWS
         </li>
       </ul>
     ),
@@ -76,7 +80,7 @@ const TAB_DATA: TabData[] = [
         <li className="flex items-center gap-2 text-gray-300">
           <span className="h-2 w-2 rounded-full bg-yellow-500"></span>
           Full Stack Developer, Ample
-          <p> Present - May,25</p>
+          <p> (Present - May,25)</p>
         </li>
       </ul>
     ),
