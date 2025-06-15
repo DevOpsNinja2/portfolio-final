@@ -73,7 +73,7 @@ const TAB_DATA: TabData[] = [
     ),
   },
   {
-    title: "Carrer",
+    title: "Career",
     id: "Career",
     content: (
       <ul className="grid grid-cols-1 xs:grid-cols-2 gap-3 sm:gap-4 pl-0 sm:pl-2">
