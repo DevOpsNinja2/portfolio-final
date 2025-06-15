@@ -69,6 +69,19 @@ const TAB_DATA: TabData[] = [
     ),
   },
   {
+    title: "Carrer",
+    id: "Career",
+    content: (
+      <ul className="grid grid-cols-1 xs:grid-cols-2 gap-3 sm:gap-4 pl-0 sm:pl-2">
+        <li className="flex items-center gap-2 text-gray-300">
+          <span className="h-2 w-2 rounded-full bg-yellow-500"></span>
+          Full Stack Developer, Ample
+          <p> Present - May,25</p>
+        </li>
+      </ul>
+    ),
+  },
+  {
     title: "Certifications",
     id: "certifications",
     content: (
